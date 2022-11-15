@@ -30,7 +30,7 @@ This is a web based application developed for health related based website in in
 
    
 
-### About Us -[screenshot3.docx](https://github.com/hemasaivelagalet/project2003/files/9994443/screenshot3.docx)
+### About Us -
 
 
 [screenshot2.docx](https://github.com/hemasaivelagalet/project2003/files/9994440/screenshot2.docx)
