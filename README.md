@@ -24,7 +24,7 @@ This is a web based application developed for health related based website in in
 
 ## Screenshots
 
-[screen.docx](https://github.com/hemasaivelagalet/project2003/files/9994429/screen.docx)
+[screen.docx](https://github.com/hemasaivelagalet/project2003/files/9994429/screen.jpg)
 
 
 
@@ -33,23 +33,24 @@ This is a web based application developed for health related based website in in
 ### About Us -
 
 
-[screenshot2.docx](https://github.com/hemasaivelagalet/project2003/files/9994440/screenshot2.docx)
+[screenshot2.docx](https://github.com/hemasaivelagalet/project2003/files/9994440/screenshot2.jpg)
 
 
 ### Services -
 
-[screenshot3.docx](https://github.com/hemasaivelagalet/project2003/files/9994445/screenshot3.docx)
+[screenshot3.docx](https://github.com/hemasaivelagalet/project2003/files/9994445/screenshot3.jpg)
 
 
 
 ### Contact us -
 
-[screenshot4.docx](https://github.com/hemasaivelagalet/project2003/files/9994449/screenshot4.docx)
+[screenshot4.docx](https://github.com/hemasaivelagalet/project2003/files/9994449/screenshot4.jpg)
 
 
 ### health bot
 
-[sceenshot5.docx](https://github.com/hemasaivelagalet/project2003/files/9994450/sceenshot5.docx)
+[sceenshot5.docx](https://github.com/hemasaivelagalet/project2003/files/9994450/sceenshot5.jpg
+)
 
 
 
